@@ -1,1 +1,3 @@
-# cozmicsmp
+# COZMICSMP 💫
+
+We
