@@ -1,0 +1,31 @@
+/*
+   ____ ____  ____  
+ / ___/ ___|/ ___| 
+| |   \___ \\___ \ 
+| |___ ___) |___)|
+\____|____/|____/
+
+*/
+
+/*Global Styles*/
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #474747;
+}
+
+header {
+    background-color: #333333;
+    padding: 20px;
+    text-align: center;
+}
+
+/*Always assigned*/
+
+h1 {
+    color: #ffffff;
+}
+
+/*Can be assigned*/
+
